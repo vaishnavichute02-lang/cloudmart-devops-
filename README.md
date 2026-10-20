@@ -11,3 +11,4 @@ Spring Boot application with a Jenkins CI/CD pipeline.
 - GitHub webhook integration
 
 Webhook automation test.
+Automatic CI/CD test - October 2026
