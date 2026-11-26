@@ -3,3 +3,5 @@ target/
 *.log
 .idea/
 .vscode/
+jenkins-docker-data-backup.tar.gz
+jenkins-home-backup.tar.gz
